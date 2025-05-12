@@ -1,0 +1,7 @@
+var n = 5;
+var result = 1;
+for (var i = 1, n) {
+    result = result * i;
+}
+
+print(result);

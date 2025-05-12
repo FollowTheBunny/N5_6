@@ -1,0 +1,3 @@
+var printer = 67;
+var for2 = 2;
+print(printer * for2);

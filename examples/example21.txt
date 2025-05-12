@@ -1,0 +1,8 @@
+var n = 10;
+var factorial = 1;
+
+for (var i = 1, factorial - 1) {
+     factorial = factorial * i;
+}
+
+print(factorial);

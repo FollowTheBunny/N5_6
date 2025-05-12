@@ -1,0 +1,5 @@
+var p = 1;
+var pr = 1;
+var pri = 1;
+var prin = 1;
+var print1 = 1;

@@ -1,0 +1,9 @@
+/home/milan/Documents/prevajanje/vaja 2.2 rust/koncni-avtomati-5-ProgrammingGangstar/rust/target/debug/deps/libstring_cache-f2c145b42621d2d9.rmeta: /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/lib.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/atom.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/dynamic_set.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/static_sets.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/milan/Documents/prevajanje/vaja 2.2 rust/koncni-avtomati-5-ProgrammingGangstar/rust/target/debug/deps/string_cache-f2c145b42621d2d9.d: /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/lib.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/atom.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/dynamic_set.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/static_sets.rs /home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/lib.rs:
+/home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/atom.rs:
+/home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/dynamic_set.rs:
+/home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/static_sets.rs:
+/home/milan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/string_cache-0.8.7/src/trivial_impls.rs:
