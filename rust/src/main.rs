@@ -3,8 +3,8 @@ use crate::ast::parser::Parser;
 use crate::ast::Ast; // Ensure this path is correct
 
 mod ast;
-
-fn main() {
+// com
+Ćfn main() {
     let input = "2 + 3 * (2 + 4)";
 
     let mut lexer = Lexer::new(input);
