@@ -4,7 +4,7 @@ use crate::ast::Ast; // Ensure this path is correct
 
 mod ast;
 // com
-Ćfn main() {
+fn main() {
     let input = "2 + 3 * (2 + 4)";
     let mut lexer = Lexer::new(input);
     let mut tokens = Vec::new();
